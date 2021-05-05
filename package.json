@@ -1,0 +1,28 @@
+{
+  "name": "SimpleWebsocket",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.17.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novaera/SimpleWebsocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novaera/SimpleWebsocket/issues"
+  },
+  "homepage": "https://github.com/Novaera/SimpleWebsocket#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "express": "^4.17.1",
+    "utf-8-validate": "^5.0.5",
+    "ws": "^7.4.5"
+  }
+}

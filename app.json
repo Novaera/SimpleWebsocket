@@ -1,0 +1,6 @@
+{
+    "name": "Node.js WebSocket Mockup",
+    "description": "Part of the Using WebSockets on Heroku Tutorial",
+    "repository": "https://github.com/Novaera/SimpleWebsocket",
+    "keywords": ["node", "websocket"]
+  }
