@@ -31,7 +31,7 @@
                     ws.close();
                 }
 
-                ws = new WebSocket('ws://localhost:6969');
+                ws = new WebSocket('wss://webskocet.herokuapp.com');
                 ws.onopen = () => {
                     console.log('Connection opened!');
                 }
